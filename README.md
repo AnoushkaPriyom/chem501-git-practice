@@ -7,3 +7,8 @@ Practice repo for learning Git and GitHub in CHEM501
 2. try
 3. implement
 
+git status
+ git add README.md
+ git commit -m "Describe repo in README"
+ git push
+ 
